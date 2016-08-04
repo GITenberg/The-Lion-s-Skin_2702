@@ -1,0 +1,31 @@
+_repo: The-Lion-s-Skin_2702
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sabatini, Rafael
+    alias: Sabatini, R.
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '640'
+    url: http://www.gutenberg.org/2009/agents/640
+    wikipedia: http://en.wikipedia.org/wiki/Rafael_Sabatini
+description: In past eras, the illegitimate children of powerful monarchs and aristocrats
+  were often sent abroad to be raised where they could cause no undue embarrassment
+  to their biological parents. This commonplace practice forms the plot of Rafael
+  Sabatini's epic classic The Lion's Skin. In the novel, Justin Caryll, the illegitimate
+  son of the influential Earl of Ostermore, travels from France to his native England
+  to confront his father -- and to exact his long-planned revenge.
+gutenberg_issued: '2001-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2702'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Great Britain -- History -- James III, 1701-1766 -- Fiction'
+- GITenberg
+title: The Lion's Skin
+url: http://www.gutenberg.org/ebooks/2702
